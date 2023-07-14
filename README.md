@@ -1,7 +1,7 @@
 # Water-Sorting-Puzzle-Solver
 Sortpuz (Water Sorting Puzzle) is a popular game that focuses on players trying to distinguish mixed colors from each other. This algorithm tries to get the optimal result as fast as possible using A* Search. 
 
-![An example image of the game](https://github.com/AlperMumcular/Water-Sorting-Puzzle-Solver/blob/main/img.jpg?raw=true)
+![An example image of the game](https://github.com/AlperMumcular/Water-Sorting-Puzzle-Solver/blob/main/img.png?raw=true)
 
 ![Alt text](relative%20path/to/img.jpg?raw=true "An example image of the game")
 
